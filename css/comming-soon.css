@@ -1,0 +1,30 @@
+/* under construction page style sheet
+======================================
+author- Chathura Bandara
+purpose - design comming soon web page*/
+
+.wrapper{
+margin: 0;
+padding: 0;
+background-color: #13262B;
+height: 350px
+}
+.content-wrapper{
+	margin: 0 auto;
+}
+.construct-logo{
+	margin: 0 auto 60px auto;
+}
+.construct-logo span {
+text-align: center;
+color: #fff;
+width: 275px
+}
+
+h1,h2,h3,h4,h5,h6{
+	color: #fff;
+	text-align: center;
+}
+h1{
+	font-size: 3em;
+}
